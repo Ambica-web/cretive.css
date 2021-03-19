@@ -1,0 +1,74 @@
+body{
+margin:0;
+}
+.glassmmorphomism_css_cr{
+ height: 400px;
+    width: 320px;
+    background-color: rgba(255,255,255,0.06);
+    backdrop-filter: blur(25px);
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-radius: 8px;
+    box-shadow: 20px 20px 22px rgba(0,0,0,0.2);
+    font-family: 'Poppins',sans-serif;
+}
+.neuropho-css_cr{
+
+border-radius: 15px;
+background: #e0e0e0;
+box-shadow:  20px 20px 26px #989898,
+             -20px -20px 26px #ffffff;}
+.thrdimension_text{
+color: #fff;
+  font-size: 5em;
+  font-weight: bold;
+  font-family: Helvetica;
+  text-shadow: 
+    0 1px 0 #ccc, 
+    0 2px 0 #c9c9c9, 
+    0 3px 0 #bbb, 
+    0 4px 0 #b9b9b9, 
+    0 5px 0 #aaa, 
+    0 6px 1px rgba(0,0,0,.1), 
+    0 0 5px rgba(0,0,0,.1), 
+    0 1px 3px rgba(0,0,0,.3), 
+    0 3px 5px rgba(0,0,0,.2), 
+    0 5px 10px rgba(0,0,0,.25), 
+    0 10px 10px rgba(0,0,0,.2), 
+    0 20px 20px rgba(0,0,0,.15);
+text-align: center;
+}
+.rt-text-cr{
+   font-family: 'Lobster', cursive;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    font-weight: bolder;
+    animation: h1 3s linear infinite;
+    transform-style: preserve-3d;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: absolute;
+    padding: 10px;}
+@keyframes h1 {
+    0% {
+        transform: translate(-50%,-50%);
+        opacity: 1;
+        transform: rotateY(0deg);
+    }
+    40% {
+        transform: rotateY(-360deg);
+    }
+    100% {
+        transform: translate(-50%,-1000%);
+        opacity: 0;
+    }
+}
+disco{
+color: blue;
+    font-size:3rem;
+text-shadow: 2px 2px 2px rgb(69, 0, 158), 4px 4px 2px rgb(255, 0, 255), 6px 6px 2px red, 8px 8px 2px rgb(255, 123, 0), 10px 10px 2px yellow, 12px 12px 2px green, 14px 14px 14px rgb(1, 71, 12), 16px 16px 2px white, 18px 18px 2px black;
+}
