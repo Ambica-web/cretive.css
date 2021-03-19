@@ -72,3 +72,8 @@ color: blue;
     font-size:3rem;
 text-shadow: 2px 2px 2px rgb(69, 0, 158), 4px 4px 2px rgb(255, 0, 255), 6px 6px 2px red, 8px 8px 2px rgb(255, 123, 0), 10px 10px 2px yellow, 12px 12px 2px green, 14px 14px 14px rgb(1, 71, 12), 16px 16px 2px white, 18px 18px 2px black;
 }
+Lens{
+border-radius: 26px;
+background: linear-gradient(145deg, #f0f0f0, #cacaca);
+box-shadow:  30px 30px 0px #8d8d8d,
+             -30px -30px 0px #ffffff;}
